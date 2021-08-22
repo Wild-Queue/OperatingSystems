@@ -1,0 +1,1000 @@
+ 1225  git push origin main
+ 1226  git checkout -b InCodeFileInput
+ 1227  git status
+ 1228  make
+ 1229  git status
+ 1230  git add .
+ 1231  git commit -am "Version2 of FileInput"
+ 1232  git push origin InCodeFileInput
+ 1233  make
+ 1234  shutter
+ 1235  make
+ 1236  shutter
+ 1237  make
+ 1238  git status
+ 1239  git add .
+ 1240  git commit -am "Bool bug was fixed"
+ 1241  git status
+ 1242  git push
+ 1243  git branch
+ 1244  git checkout main
+ 1245  git checkout InCodeFileInput
+ 1246  git push origin main
+ 1247  git checkout main
+ 1248  git status
+ 1249  git checkout InCodeFileInput
+ 1250  git status
+ 1251  git push origin main
+ 1252  git push
+ 1253  git push --set-upstream origin InCodeFileInput
+ 1254  git push --set-upstream origin main
+ 1255  git status
+ 1256  git checkout main
+ 1257  git status
+ 1258  git pull
+ 1259  cd
+ 1260  sudo apt-get update
+ 1261  sudo apt-get full-upgrade
+ 1262  sudo apt-get update
+ 1263  make
+ 1264  cd
+ 1265  sudo apt-get full-upgrade
+ 1266  sudo apt-get update
+ 1267  sudo apt-get full-upgrade
+ 1268  sudo apt-get update
+ 1269  sudo apt-get full-upgrade
+ 1270  sudo apt-get update
+ 1271  sudo apt-get full-upgrade
+ 1272  sudo apt remove telegram
+ 1273  sudo add-apt-repository -r ppa:aatareao/telegram
+ 1274  sudo add-apt-repository -r ppa:atareao/telegram
+ 1275  sudo updatedb && locate Telegram
+ 1276  nautilus
+ 1277  sudo nautilus
+ 1278  sudo updatedb && locate Telegram
+ 1279  sudo nautilus
+ 1280  sudo updatedb && locate Telegram
+ 1281  sudo updatedb && locate telegram
+ 1282  sudo nautilus
+ 1283  sudo updatedb && locate telegram
+ 1284  sudo nautilus
+ 1285  sudo updatedb && locate telegram
+ 1286  sudo nautilus
+ 1287  sudo updatedb && locate telegram
+ 1288  sudo nautilus
+ 1289  sudo updatedb && locate telegram
+ 1290  sudo add-apt-repository ppa:atareao/telegram
+ 1291  sudo apt update
+ 1292  Shell
+ 1293  sudo apt install telegram
+ 1294  telegram
+ 1295  sudo apt remove telegram
+ 1296  sudo add-apt-repository -r ppa:atareao/telegram
+ 1297  sudo updatedb && locate Telegram
+ 1298  sudo apt install telegram-desktop
+ 1299  sudo apt install  telegram-cli telegram-purple
+ 1300  sudo apt install telegram-desktop
+ 1301  telegram-desktop
+ 1302  sudo apt-get install snapd
+ 1303  sudo apt-get full-upgrade
+ 1304  sudo apt-get update
+ 1305  sudo apt-get full-upgrade
+ 1306  sudo apt-get update
+ 1307  sudo apt-get full-upgrade
+ 1308  sudo apt-get update
+ 1309  sudo apt-get full-upgrade
+ 1310  sudo apt-get update
+ 1311  sudo apt-get full-upgrade
+ 1312  sudo remove telegram-desktop
+ 1313  sudo r telegram-desktop
+ 1314  sudo apt-get full-upgrade
+ 1315  sudo apt install  telegram-cli telegram-purple
+ 1316  sudo apt-get full-upgrade
+ 1317  sudo apt-get update
+ 1318  sudo apt-get full-upgrade
+ 1319  sudo apt-get update
+ 1320  sudo apt-get full-upgrade
+ 1321  sudo apt-get update
+ 1322  sudo apt-get full-upgrade
+ 1323  sudo apt-get update
+ 1324  sudo apt-get full-upgrade
+ 1325  sudo apt install chrome-gnome-shell
+ 1326  sudo apt-get update
+ 1327  sudo apt-get full-upgrade
+ 1328  sudo apt-get update
+ 1329  sudo apt-get full-upgrade
+ 1330  sudo apt-get update
+ 1331  sudo apt-get full-upgrade
+ 1332  sudo apt-get update
+ 1333  make
+ 1334  yacc -d Analyser.y
+ 1335  make
+ 1336  git status
+ 1337  git pull
+ 1338  cd
+ 1339  cd ls
+ 1340  cd -ls
+ 1341  cd -l
+ 1342  ls
+ 1343  make
+ 1344  make
+ 1345  sudo apt-get update
+ 1346  sudo apt-get full-upgrade
+ 1347  sudo apt-get update
+ 1348  sudo apt-get update --fix-missing
+ 1349  sudo apt-get upgrade --fix-missing
+ 1350  sudo apt-get--fix-missing
+ 1351  sudo apt-get --fix-missing
+ 1352  sudo apt-get full-upgrade --fix-missing
+ 1353  sudo nautilus
+ 1354  sudo dpkg --configure -a
+ 1355  sudo apt-get -f install
+ 1356  sudo apt-get clean
+ 1357  sudo apt-get update
+ 1358  sudo apt-get upgrade
+ 1359  sudo apt-get update
+ 1360  sudo apt-get upgrade
+ 1361  sudo apt-get update
+ 1362  sudo apt-get upgrade
+ 1363  sudo apt-get update
+ 1364  sudo apt-get upgrade
+ 1365  sudo apt-get full-upgrade
+ 1366  make
+ 1367  ./parser < test1.b
+ 1368  ./parser < test2.b
+ 1369  make
+ 1370  ./parser < test2.b
+ 1371  ./parser < test3.b
+ 1372  ./parser < test1.b
+ 1373  ./parser > test.c
+ 1374  sudo apt-get update
+ 1375  sudo apt-get upgrade
+ 1376  telegam
+ 1377  telegam-desktop
+ 1378  telegram-desktop
+ 1379  sudo apt remove telegram-desktop
+ 1380  telegam-desktop
+ 1381  telegram-desktop
+ 1382  sudo updatedb && locate telegram-desktop
+ 1383  sudo updatedb && locate Telegram-desktop
+ 1384  sudo updatedb && locate telegram
+ 1385  sudo updatedb && locate Telegram
+ 1386  sudo apt install  telegram-cli telegram-purple
+ 1387  sudo apt install telegram-desktop
+ 1388  sudo apt-get install -f && dpkg --configure -a
+ 1389  sudo apt-get install -f && sudo dpkg --configure -a
+ 1390  sudo apt install  telegram-cli telegram-purple
+ 1391  sudo apt-get install --reinstall telegram-purple
+ 1392  sudo apt-get install --reinstall telegram-cli
+ 1393  sudo apt-get install --reinstall cryptsetup-run
+ 1394  sudo apt-get update
+ 1395  sudo apt-get upgrade
+ 1396  sudo apt remove telegram-desktop
+ 1397  sudo apt install telegram-desktop
+ 1398  snap version
+ 1399  sudo apt autoremove --purge snapd
+ 1400  sudo dpkg --configure -a
+ 1401  sudo apt-get update
+ 1402  sudo apt-get upgrade
+ 1403  sudo apt-get update
+ 1404  sudo apt-get upgrade
+ 1405  sudo dpkg --configure -a
+ 1406  sudo apt autoremove --purge snapd
+ 1407  sudo apt-get upgrade
+ 1408  sudo apt-get update
+ 1409  sudo apt install snapd
+ 1410  sudo apt-get update
+ 1411  snap version
+ 1412  telegam-desktop
+ 1413  sudo apt-get update
+ 1414  sudo apt-get upgrade
+ 1415  sudo apt-get update
+ 1416  sudo apt remove telegram-desktop
+ 1417  telegam-desktop
+ 1418  telegram-desktop
+ 1419  telegam-desktop
+ 1420  telegram-desktop -v
+ 1421  telegram-desktop -version
+ 1422  sudo updatedb && locate telegram-desktop
+ 1423  locate telegram-desktop
+ 1424  sudo updatedb && locate telegram-desktop
+ 1425  sudo updatedb && locate telegram
+ 1426  sudo updatedb && locate Telegram
+ 1427  sudo apt install telegram-desktop
+ 1428  telegram-desktop -version
+ 1429  telegram-desktop version
+ 1430  sudo apt remove telegram-desktop
+ 1431  sudo apt autoremove
+ 1432  sudo apt remove telegram-desktop
+ 1433  sudo apt-get update
+ 1434  sudo apt-get upgrade
+ 1435  sudo apt remove telegram-desktop
+ 1436  sudo apt remove telegram
+ 1437  telegam-desktop
+ 1438  sudo updatedb && locate telegram
+ 1439  sudo apt-get install --reinstall telegram-desktop
+ 1440  telegam-desktop
+ 1441  sudo apt remove telegram
+ 1442  sudo apt remove telegram-desktop
+ 1443  telegam-desktop
+ 1444  sudo apt-get install --reinstall telegram-desktop
+ 1445  telegam-desktop
+ 1446  sudo apt-get install --reinstall telegram-desktop
+ 1447  sudo apt-get install -help
+ 1448  sudo apt-get install --help
+ 1449  sudo apt-get update
+ 1450  sudo apt-get upgrade
+ 1451  sudo apt-get update
+ 1452  sudo apt-get upgrade
+ 1453  sudo apt-get update
+ 1454  lex Analyser.l
+ 1455  gcc lex.yy.c  -o Analyser
+ 1456  gcc lex.yy.c -o Analyser
+ 1457  make
+ 1458  lex Analyser.l
+ 1459  gcc lex.yy.c -o Analyser
+ 1460  gcc lex.yy.c -ll -o Analyser
+ 1461  lex Analyser.l
+ 1462  gcc lex.yy.c -ll -o Analyser
+ 1463  gcc10 lex.yy.c -ll -o Analyser
+ 1464  gcc-10 lex.yy.c -ll -o Analyser
+ 1465  cc lex.yy.c -ll -o Analyser
+ 1466  lex Analyser.l
+ 1467  cc lex.yy.c -ll -o Analyser
+ 1468  lex Analyser.l
+ 1469  cc lex.yy.c -ll -o Analyser
+ 1470  lex Analyser.l
+ 1471  cc lex.yy.c -ll -o Analyser
+ 1472  ./Analyser
+ 1473  ./Analyser < input.txt
+ 1474  lex Analyser.l
+ 1475  cc lex.yy.c -ll -o Analyser
+ 1476  ./Analyser < input.txt
+ 1477  lex Analyser.l
+ 1478  cc lex.yy.c -ll -o Analyser
+ 1479  ./Analyser < input.txt
+ 1480  sudo apt-get update
+ 1481  sudo apt-get upgrade
+ 1482  sudo apt-get update
+ 1483  sudo apt-get upgrade --fix-missing
+ 1484  lex Analyser.l
+ 1485  cc lex.yy.c -ll -o Analyser
+ 1486  sudo apt-get upgrade
+ 1487  sudo apt-get updare
+ 1488  sudo apt-get update
+ 1489  sudo apt-get upgrade
+ 1490  lex Analyser.l
+ 1491  cc lex.yy.c -ll -o Analyser
+ 1492  ./Analyser < input.txt
+ 1493  sudo apt-get update
+ 1494  sudo apt-get upgrade
+ 1495  ./Analyser < input.txt
+ 1496  lex Analyser.l
+ 1497  sudo apt-get upgrade
+ 1498  cc lex.yy.c -ll -o Analyser
+ 1499  lex Analyser.l
+ 1500  cc lex.yy.c -ll -o Analyser
+ 1501  ./Analyser < input.txt
+ 1502  lex Analyser.l
+ 1503  cc lex.yy.c -ll -o Analyser
+ 1504  ./Analyser < input.txt
+ 1505  sudo apt-get update
+ 1506  sudo apt-get upgrade
+ 1507  sudo apt-get update
+ 1508  sudo apt-get upgrade
+ 1509  sudo apt-get update
+ 1510  sudo apt-get upgrade
+ 1511  git status
+ 1512  git add .
+ 1513  git checkout -b OldVersion
+ 1514  git commit -am "Transforming"
+ 1515  git push origin OldVersion
+ 1516  git checkout main
+ 1517  git status
+ 1518  git add .
+ 1519  git commit -am "Transforming"
+ 1520  git push origin main
+ 1521  git push
+ 1522  git status
+ 1523  git push origin main
+ 1524  git pull
+ 1525  git status
+ 1526  git pull
+ 1527  git add .
+ 1528  git commit -am "Transforming"
+ 1529  git push origin main
+ 1530  git add .
+ 1531  git commit -am "Transforming"
+ 1532  git push origin main
+ 1533  git commit -am "Lexical Analyser"
+ 1534  git chekout -b "Lexical Analyser"
+ 1535  git checkout -b LexicalAnalyser
+ 1536  git status
+ 1537  git add .
+ 1538  git commit -am "Transforming"
+ 1539  git push origin LexicalAnalyser
+ 1540  git status
+ 1541  ./Analyser < input.txt
+ 1542  lex Analyser.l
+ 1543  cc lex.yy.c -ll -o Analyser
+ 1544  ./Analyser < input.txt
+ 1545  lex Analyser.l
+ 1546  cc lex.yy.c -ll -o Analyser
+ 1547  ./Analyser < input.txt
+ 1548  lex Analyser.l
+ 1549  cc lex.yy.c -ll -o Analyser
+ 1550  ./Analyser < input.txt
+ 1551  lex Analyser.l
+ 1552  cc lex.yy.c -ll -o Analyser
+ 1553  ./Analyser < input.txt
+ 1554  lex Analyser.l
+ 1555  cc lex.yy.c -ll -o Analyser
+ 1556  ./Analyser < input.txt
+ 1557  lex Analyser.l
+ 1558  cc lex.yy.c -ll -o Analyser
+ 1559  ./Analyser < input.txt
+ 1560  go HelloWorld.go
+ 1561  go help
+ 1562  go HelloWorld
+ 1563  go help pachages
+ 1564  go help packages
+ 1565  go HelloWorld.go
+ 1566  go run HelloWorld.go
+ 1567  f
+ 1568  go run HelloWorld.go
+ 1569  lex Analyser.l
+ 1570  cc lex.yy.c -ll -o Analyser
+ 1571  ./Analyser < input.txt
+ 1572  lex Analyser.l
+ 1573  cc lex.yy.c -ll -o Analyser
+ 1574  ./Analyser < input.txt
+ 1575  lex Analyser.l
+ 1576  cc lex.yy.c -ll -o Analyser
+ 1577  ./Analyser < input.txt
+ 1578  lex Analyser.l
+ 1579  cc lex.yy.c -ll -o Analyser
+ 1580  ./Analyser < input.txt
+ 1581  lex Analyser.l
+ 1582  cc lex.yy.c -ll -o Analyser
+ 1583  ./Analyser < input.txt
+ 1584  lex Analyser.l
+ 1585  cc lex.yy.c -ll -o Analyser
+ 1586  ./Analyser < input.txt
+ 1587  lex Analyser.l
+ 1588  cc lex.yy.c -ll -o Analyser
+ 1589  ./Analyser < input.txt
+ 1590  lex Analyser.l
+ 1591  cc lex.yy.c -ll -o Analyser
+ 1592  ./Analyser < input.txt
+ 1593  lex Analyser.l
+ 1594  cc lex.yy.c -ll -o Analyser
+ 1595  ./Analyser < input.txt
+ 1596  lex Analyser.l
+ 1597  cc lex.yy.c -ll -o Analyser
+ 1598  ./Analyser < input.txt
+ 1599  make
+ 1600  yacc -d Analyser.y
+ 1601  lex Analyser.l
+ 1602  cc lex.yy.c -ll -o Analyser
+ 1603  lex Analyser.l
+ 1604  cc lex.yy.c -ll -o Analyser
+ 1605  sudo apt-get upgrade
+ 1606  sudo apt-get update
+ 1607  sudo apt-get upgrade
+ 1608  sudo apt-get update
+ 1609  sudo apt-get upgrade
+ 1610  sudo apt-get update
+ 1611  sudo apt-get upgrade
+ 1612  sudo apt-get update
+ 1613  sudo apt-get upgrade
+ 1614  sudo apt-get update
+ 1615  yacc -d Analyser.y
+ 1616  gcc y.tab.c
+ 1617  yacc -d Analyser.y
+ 1618  gcc y.tab.c
+ 1619  yacc -d Analyser.y
+ 1620  gcc y.tab.c
+ 1621  yacc -d Analyser.y
+ 1622  gcc y.tab.c
+ 1623  yacc -d Analyser.y
+ 1624  gcc y.tab.c
+ 1625  yacc -d Analyser.y
+ 1626  yacc -d Analyser.y
+ 1627  make
+ 1628  yacc -d Analyser.y
+ 1629  sudo apt-get update
+ 1630  sudo apt-get upgrade
+ 1631  sudo apt-get update
+ 1632  sudo apt-get upgrade
+ 1633  sudo apt-get update
+ 1634  yacc -d Analyser.y
+ 1635  go run HelloWorld.go
+ 1636  bison -v  Analyser.y
+ 1637  git status
+ 1638  git checkout main
+ 1639  git checkout
+ 1640  git checkout OldVersion
+ 1641  make
+ 1642  yacc -d Analyser.y
+ 1643  bison -v Analyser.y
+ 1644  make
+ 1645  sudo apt-get update
+ 1646  sudo apt-get upgrade
+ 1647  sudo apt-get update
+ 1648  shutter
+ 1649  sudo apt-get install discord
+ 1650  sudo snap install discord
+ 1651  sudo apt-get update
+ 1652  sudo apt-get upgrade
+ 1653  sudo apt-get update
+ 1654  sudo apt-get upgrade
+ 1655  sudo dpkg --configure -a
+ 1656  sudo apt-get upgrade
+ 1657  sudo apt-get update
+ 1658  bison -v Analyser.y
+ 1659  make
+ 1660  ьфлу
+ 1661  make
+ 1662  ьфлу
+ 1663  make
+ 1664  ьфлу
+ 1665  make
+ 1666  bison -v Analyser.y
+ 1667  make
+ 1668  bison -v Analyser.y
+ 1669  make
+ 1670  bison -v Analyser.y
+ 1671  make
+ 1672  sudo apt-get update
+ 1673  sudo apt-get upgrade
+ 1674  sudo apt-get update
+ 1675  sudo apt-get upgrade
+ 1676  bison -v Analyser.y
+ 1677  git status
+ 1678  git checkout
+ 1679  git status
+ 1680  git checkout main
+ 1681  git status
+ 1682  git add .
+ 1683  git commit -am "Hui"
+ 1684  git push origin main
+ 1685  bison -v Analyser.y
+ 1686  bison -r all Analyser.y
+ 1687  bison -help
+ 1688  bison -o all Analyser.y
+ 1689  bison -b all Analyser.y
+ 1690  bison -g all Analyser.y
+ 1691  bison -g Analyser.y
+ 1692  bison -r all Analyser.y
+ 1693  yacc -h
+ 1694  bison -r all Analyser.y
+ 1695  make
+ 1696  bison -r all Analyser.y
+ 1697  make
+ 1698  bison -r all Analyser.y
+ 1699  make
+ 1700  sudo apt-get update
+ 1701  sudo apt-get upgrade
+ 1702  bison -r all Analyser.y
+ 1703  make
+ 1704  bison -r all Analyser.y
+ 1705  make
+ 1706  bison -r all Analyser.y
+ 1707  make
+ 1708  bison -r all Analyser.y
+ 1709  make
+ 1710  git status
+ 1711  make
+ 1712  git status
+ 1713  git checkout LexicalAnalyser
+ 1714  lex Analyser.l
+ 1715  ./Analyser
+ 1716  sudo apt-get update
+ 1717  sudo apt-get upgrade
+ 1718  sudo apt-get update
+ 1719  sudo apt-get upgrade
+ 1720  make
+ 1721  ake
+ 1722  make
+ 1723  ake
+ 1724  make
+ 1725  sudo apt-get update
+ 1726  sudo apt-get upgrade
+ 1727  sudo apt-get update
+ 1728  sudo apt-get upgrade
+ 1729  sudo apt-get update
+ 1730  sudo apt-get upgrade
+ 1731  sudo apt-get update
+ 1732  sudo apt-get upgrade
+ 1733  sudo apt-get update
+ 1734  sudo apt-get upgrade
+ 1735  git status
+ 1736  git checkout main
+ 1737  git status
+ 1738  git add .
+ 1739  git commit -am "New Input"
+ 1740  git push
+ 1741  git push oring LexicalAnalyser
+ 1742  git push origin LexicalAnalyser
+ 1743  git checkout main
+ 1744  git status
+ 1745  git add .
+ 1746  git commit -am "Version Without"
+ 1747  git push origin main
+ 1748  make
+ 1749  sudo apt-get update
+ 1750  sudo apt-get upgrade
+ 1751  sudo apt-get update
+ 1752  sudo apt-get upgrade
+ 1753  sudo apt-get update
+ 1754  sudo apt-get upgrade
+ 1755  sudo apt autoremove
+ 1756  sudo apt-get update
+ 1757  sudo apt-get upgrade
+ 1758  acpi --help
+ 1759  actitool
+ 1760  actitool -B
+ 1761  acpitool -B
+ 1762  sudo apt install acpitool
+ 1763  acpitool -B
+ 1764  acpi --help
+ 1765  sudo apt install acpi
+ 1766  acpi --help
+ 1767  acpi -b
+ 1768  acpi --help
+ 1769  acpitool -B
+ 1770  sudo apt-get update
+ 1771  sudo apt-get upgrade
+ 1772  sudo apt-get update
+ 1773  sudo apt-get upgrade
+ 1774  sudo apt-get update
+ 1775  sudo apt-get upgrade
+ 1776  /usr/bin/env
+ 1777  go run HelloWorld.go
+ 1778  cd /home
+ 1779  ls
+ 1780  cd /home
+ 1781  cd /egor
+ 1782  cd ~/egor
+ 1783  ls
+ 1784  cd /home/egor
+ 1785  ls
+ 1786  cd
+ 1787  sudo tar -C /usr/local -xzf go1.7.1.linux-amd64.tar.gz
+ 1788  sudo tar -C /usr/local -xzf go1.16.5.linux-amd64.tar.gz
+ 1789  cd Загрузки
+ 1790  sudo tar -C /usr/local -xzf go1.16.5.linux-amd64.tar.gz
+ 1791  св
+ 1792  cd
+ 1793  cd /usr/local
+ 1794  ls
+ 1795  cd /usr/local/go
+ 1796  ls
+ 1797  sudo nautilus
+ 1798  sudo apt-get update
+ 1799  sudo apt-get upgrade
+ 1800  sudo apt-get update
+ 1801  sudo apt-get upgrade
+ 1802  sudo apt-get full-upgrade
+ 1803  sudo apt-get update
+ 1804  sudo apt-get full-upgrade
+ 1805  sudo apt-get update
+ 1806  sudo apt-get full-upgrade
+ 1807  sudo apt-get update
+ 1808  sudo apt-get full-upgrade
+ 1809  sudo apt-get update
+ 1810  sudo apt-get full-upgrade
+ 1811  sudo apt-get update
+ 1812  sudo apt-get full-upgrade
+ 1813  sudo apt-get update
+ 1814  sudo apt-get full-upgrade
+ 1815  sudo apt-get update
+ 1816  sudo apt-get full-upgrade
+ 1817  sudo apt-get update
+ 1818  sudo apt-get full-upgrade
+ 1819  sudo apt-get update
+ 1820  sudo apt-get full-upgrade
+ 1821  sudo apt-get update
+ 1822  sudo apt-get full-upgrade
+ 1823  sudo apt-get update
+ 1824  sudo apt-get full-upgrade
+ 1825  sudo apt-get update
+ 1826  sudo apt-get full-upgrade
+ 1827  sudo apt-get update
+ 1828  sudo apt-get full-upgrade
+ 1829  sudo apt-get update
+ 1830  sudo apt-get full-upgrade
+ 1831  sudo apt-get update
+ 1832  sudo apt-get full-upgrade
+ 1833  sudo apt-get update
+ 1834  sudo apt-get full-upgrade
+ 1835  sudo apt-get update
+ 1836  sudo apt-get full-upgrade
+ 1837  sudo apt-get update
+ 1838  sudo apt-get full-upgrade
+ 1839  sudo apt-get update
+ 1840  /usr/bin/env
+ 1841  go run Дурак.go
+ 1842  sudo apt-get update
+ 1843  go run Дурак.go
+ 1844  sudo apt-get full-upgrade
+ 1845  /usr/bin/env
+ 1846  go run Дурак.go
+ 1847  sudo apt-get full-upgrade
+ 1848  sudo apt-get update
+ 1849  sudo apt-get full-upgrade
+ 1850  sudo apt-get update
+ 1851  sudo apt-get full-upgrade
+ 1852  sudo apt autoremove
+ 1853  sudo apt-get update
+ 1854  sudo apt-get full-upgrade
+ 1855  sudo apt-get update
+ 1856  sudo apt-get full-upgrade
+ 1857  sudo apt-get update
+ 1858  cpp10 AccreditationTest.cpp
+ 1859  cpp10ccreditationTest.cpp
+ 1860  cpp10 AreditationTest.cpp
+ 1861  cpp AreditationTest.cpp
+ 1862  cpp AccreditationTest.cpp
+ 1863  sudo apt-get update
+ 1864  cpp AccreditationTest.cpp
+ 1865  sudo apt-get full-upgrade
+ 1866  sudo apt-get update
+ 1867  sudo apt-get full-upgrade
+ 1868  sudo apt-get update
+ 1869  sudo apt-get full-upgrade
+ 1870  sudo apt-get update
+ 1871  sudo apt-get full-upgrade
+ 1872  go get -u gopkg.in/llgcode/draw2d.v1
+ 1873  go run Дурак.go
+ 1874  go run DrawExample.go
+ 1875  sudo apt-get update
+ 1876  go run DrawExample.go
+ 1877  sudo apt-get full-upgrade
+ 1878  sudo apt-get update
+ 1879  sudo apt-get full-upgrade
+ 1880  sudo apt-get update
+ 1881  sudo apt-get full-upgrade
+ 1882  sudo apt autoremove
+ 1883  sudo apt-get full-upgrade
+ 1884  sudo apt-get update
+ 1885  sudo apt-get full-upgrade
+ 1886  sudo apt-get update
+ 1887  sudo apt-get full-upgrade
+ 1888  sudo atp autoremove
+ 1889  sudo apt autoremove
+ 1890  sudo apt-get full-upgrade
+ 1891  sudo apt-get update
+ 1892  sudo apt-get full-upgrade
+ 1893  sudo apt-get update
+ 1894  sudo apt-get full-upgrade
+ 1895  sudo apt-get update
+ 1896  sudo apt-get full-upgrade
+ 1897  sudo apt-get update
+ 1898  sudo apt-get full-upgrade
+ 1899  sudo apt-get update
+ 1900  sudo apt-get full-upgrade
+ 1901  sudo dpkg --configure -a
+ 1902  sudo apt-get full-upgrade
+ 1903  sudo dpkg --configure -a
+ 1904  sudo apt-get full-upgrade
+ 1905  sudo apt-get update
+ 1906  sudo apt-get full-upgrade
+ 1907  sudo apt-get update
+ 1908  sudo apt-get full-upgrade
+ 1909  sudo apt-get update
+ 1910  sudo apt-get full-upgrade
+ 1911  sudo apt-get update
+ 1912  sudo apt-get full-upgrade
+ 1913  sudo apt-get update
+ 1914  sudo apt-get full-upgrade
+ 1915  sudo apt-get update
+ 1916  whoami
+ 1917  man whoami
+ 1918  ls
+ 1919  mkdir ~/OS/week1
+ 1920  cd ~/OS/week1
+ 1921  ls
+ 1922  cd ~/
+ 1923  cd ~/OS
+ 1924  ls
+ 1925  ls | sort -r
+ 1926  cd ~/usr/bin
+ 1927  cd /usr/bin
+ 1928  ls | sort -r
+ 1929  ls | sort -r | grep -rE 'gcc'
+ 1930  find /usr/bin -name '*gcc*'
+ 1931  cd ~/OS
+ 1932  find /usr/bin -name '*gcc*'
+ 1933  touch list.txt
+ 1934  cd week1
+ 1935  touch list.txt
+ 1936  find /usr/bin -name '*gcc*' > list.txt
+ 1937  find /usr/bin -name '*gcc*' > ex1.txt
+ 1938  find /usr/bin -name '*gcc* | sort -r' > ex1.txt
+ 1939  find /usr/bin -name '*gcc'* | sort -r > ex1.txt
+ 1940  find /usr/bin -name '*gcc*' | sort -r > ex1.txt
+ 1941  history > ex2.txt
+ 1942  grep /usr/bin -name '*gcc*' | sort -r > ex1.txt
+ 1943  grep /usr/bin '*gcc*' | sort -r > ex1.txt
+ 1944  grep /usr/bin 'gcc' | sort -r > ex1.txt
+ 1945  grep -l /usr/bin 'gcc' | sort -r > ex1.txt
+ 1946  grep /usr/bin -l 'gcc' | sort -r > ex1.txt
+ 1947  grep -l 'gcc' /usr/bin | sort -r > ex1.txt
+ 1948  grep -l "gcc" | sort -r > ~/OS/week1/ex1.txt
+ 1949  cd
+ 1950  cd /urs/bin
+ 1951  cd /usr/bin
+ 1952  ls |  grep -l "gcc" | sort -r > ~/OS/week1/ex1.txt
+ 1953  ls > ~/OS/week1/list.txt | grep -l "gcc" ~/OS/week1/list.txt | sort -r > ~/OS/week1/ex1.txt
+ 1954  ls 
+ 1955  grep -l "gcc" ~/OS/week1/list.txt | sort -r > ~/OS/week1/ex1.txt
+ 1956  grep -l "gcc" ~/OS/week1/list.txt | sort -r
+ 1957  grep -l "gcc"
+ 1958  grep -l "gcc" 
+ 1959  ls > ~/OS/week1/list.txt | grep -l "gcc"' ~/OS/week1/list.txt' | sort -r > ~/OS/week1/ex1.txt
+ 1960  ls > ~/OS/week1/list.txt | grep -l "gcc" '~/OS/week1/list.txt' | sort -r > ~/OS/week1/ex1.txt
+ 1961  ls | grep -l "gcc" | sort -r > ~/OS/week1/ex1.txt
+ 1962  ls | grep -l "gcc" | sort -r > ~/OS/week1/ex1.txt
+ 1963  ls > ~/OS/week1/list.txt | grep -l "gcc" <  ~/OS/week1/list.txt | sort -r > ~/OS/week1/ex1.txt
+ 1964  ls > ~/OS/week1/list.txt | grep "gcc" <  ~/OS/week1/list.txt | sort -r > ~/OS/week1/ex1.txt
+ 1965  ls > ~/OS/week1/list.txt | grep -R gcc ~/OS/week1/list.txt | sort -r > ~/OS/week1/ex1.txt
+ 1966  ls | grep "*gcc*"
+ 1967  ls | grep "gcc"
+ 1968  ls | grep "gcc" | sort -r > ~/OS/week1/ex1.txt
+ 1969  cd ~/OS/week1
+ 1970  history > ex2.txt
+ 1971  touch some.txt
+ 1972  cd /usr/bin
+ 1973  ls | grep "gcc" | sort -r > ~/OS/week1/ex1.txt
+ 1974  cd ~/OS
+ 1975  mkdir ∼ /week1
+ 1976  cd ~/OS
+ 1977  mkdir ∼ /OS/week1
+ 1978  mkdir ∼/OS/week1
+ 1979  mkdir ∼/OS
+ 1980  mkdir ∼/OS/week1
+ 1981  mkdir ∼/OS
+ 1982  cd
+ 1983  mkdir ~/OS/week1
+ 1984  cd ~/OS/week1
+ 1985  ls | grep "gcc" | sort -r > ~/OS/week1/ex1.txt
+ 1986  ls | grep "gcc" /usr/bin | sort -r > ~/OS/week1/ex1.txt
+ 1987  cd /usr/bin | ls | grep "gcc" | sort -r > ~/OS/week1/ex1.txt
+ 1988  cd /usr/bin
+ 1989  ls | grep "gcc" | sort -r > ~/OS/week1/ex1.txt
+ 1990  cd ~/OS/week1
+ 1991  history > ex2.txt
+ 1992  touch some.txt
+ 1993  sudo apt-get update
+ 1994  sudo apt-get full-upgrade
+ 1995  sudo apt-get update
+ 1996  sudo apt-get full-upgrade
+ 1997  sudo apt-get update
+ 1998  sudo apt-get full-upgrade
+ 1999  sudo apt-get update
+ 2000  sudo apt-get full-upgrade
+ 2001  sudo apt-get update
+ 2002  sudo apt-get full-upgrade
+ 2003  sudo apt-get update
+ 2004  sudo apt-get full-upgrade
+ 2005  sudo apt-get update
+ 2006  sudo apt-get full-upgrade
+ 2007  sudo apt-get update
+ 2008  sudo apt-get full-upgrade
+ 2009  sudo apt-get update
+ 2010  sudo apt-get full-upgrade
+ 2011  sudo apt-get update
+ 2012  sudo apt-get full-upgrade
+ 2013  sudo apt-get update
+ 2014  sudo apt-get full-upgrade
+ 2015  cd
+ 2016  cd ~/OS/week1
+ 2017  history > ex2.txt
+ 2018  cd
+ 2019  cd ~/Os
+ 2020  cd
+ 2021  cd ~/Os
+ 2022  cd
+ 2023  cd ~/Os
+ 2024  cd
+ 2025  cd ~/Os
+ 2026  cd
+ 2027  cd ~/Os
+ 2028  cd
+ 2029  cd ~/Os
+ 2030  cd
+ 2031  cd ~/Os
+ 2032  cd
+ 2033  cd ~/Os
+ 2034  cd
+ 2035  cd ~/Os
+ 2036  cd
+ 2037  cd ~/Os
+ 2038  cd
+ 2039  cd ~/Os
+ 2040  cd
+ 2041  cd ~/Os
+ 2042  cd
+ 2043  cd ~/Os
+ 2044  cd
+ 2045  cd ~/Os
+ 2046  cd
+ 2047  cd ~/Os
+ 2048  cd
+ 2049  cd ~/Os
+ 2050  cd
+ 2051  cd ~/Os
+ 2052  cd
+ 2053  cd ~/Os
+ 2054  cd
+ 2055  cd ~/Os
+ 2056  cd
+ 2057  cd ~/Os
+ 2058  cd
+ 2059  cd ~/Os
+ 2060  cd
+ 2061  cd ~/Os
+ 2062  cd
+ 2063  cd ~/Os
+ 2064  cd
+ 2065  cd ~/Os
+ 2066  cd
+ 2067  cd ~/Os
+ 2068  cd
+ 2069  cd ~/Os
+ 2070  cd
+ 2071  cd ~/Os
+ 2072  cd
+ 2073  cd ~/Os
+ 2074  cd
+ 2075  cd ~/Os
+ 2076  cd
+ 2077  cd ~/Os
+ 2078  cd
+ 2079  cd ~/Os
+ 2080  cd
+ 2081  cd ~/Os
+ 2082  cd
+ 2083  cd ~/Os
+ 2084  cd
+ 2085  cd ~/Os
+ 2086  cd
+ 2087  cd ~/Os
+ 2088  cd
+ 2089  cd ~/Os
+ 2090  cd
+ 2091  cd ~/Os
+ 2092  cd
+ 2093  cd ~/Os
+ 2094  cd
+ 2095  cd ~/Os
+ 2096  cd
+ 2097  cd ~/Os
+ 2098  cd
+ 2099  cd ~/Os
+ 2100  cd
+ 2101  cd ~/Os
+ 2102  cd
+ 2103  cd ~/Os
+ 2104  cd
+ 2105  cd ~/Os
+ 2106  cd
+ 2107  cd ~/Os
+ 2108  cd
+ 2109  cd ~/Os
+ 2110  cd
+ 2111  cd ~/Os
+ 2112  cd
+ 2113  cd ~/Os
+ 2114  cd
+ 2115  cd ~/Os
+ 2116  cd
+ 2117  cd ~/Os
+ 2118  cd
+ 2119  cd ~/Os
+ 2120  cd
+ 2121  cd ~/Os
+ 2122  cd
+ 2123  cd ~/Os
+ 2124  cd
+ 2125  cd ~/Os
+ 2126  cd
+ 2127  cd ~/Os
+ 2128  cd
+ 2129  cd ~/Os
+ 2130  cd
+ 2131  cd ~/Os
+ 2132  cd
+ 2133  cd ~/Os
+ 2134  cd
+ 2135  cd ~/Os
+ 2136  cd
+ 2137  cd ~/OS
+ 2138  cd week1
+ 2139  history > ex2.txt
+ 2140  cd
+ 2141  cd ~/OS
+ 2142  cd
+ 2143  cd ~/OS
+ 2144  cd
+ 2145  cd ~/OS
+ 2146  cd
+ 2147  cd ~/OS
+ 2148  cd
+ 2149  cd ~/OS
+ 2150  cd
+ 2151  cd ~/OS
+ 2152  cd
+ 2153  cd ~/OS
+ 2154  cd
+ 2155  cd ~/OS
+ 2156  cd
+ 2157  cd ~/OS
+ 2158  cd
+ 2159  cd ~/OS
+ 2160  cd
+ 2161  cd ~/OS
+ 2162  cd
+ 2163  cd ~/OS
+ 2164  cd
+ 2165  cd ~/OS
+ 2166  cd
+ 2167  cd ~/OS
+ 2168  cd
+ 2169  cd ~/OS
+ 2170  history > ex2.txt
+ 2171  cd
+ 2172  cd ~/OS
+ 2173  cd
+ 2174  cd ~/OS
+ 2175  cd
+ 2176  cd ~/OS
+ 2177  cd
+ 2178  cd ~/OS
+ 2179  cd
+ 2180  cd ~/OS
+ 2181  cd
+ 2182  cd ~/OS
+ 2183  cd
+ 2184  cd ~/OS
+ 2185  cd
+ 2186  cd ~/OS
+ 2187  cd
+ 2188  cd ~/OS
+ 2189  cd
+ 2190  cd ~/OS
+ 2191  cd
+ 2192  cd ~/OS
+ 2193  cd
+ 2194  cd ~/OS
+ 2195  cd
+ 2196  cd ~/OS
+ 2197  cd
+ 2198  cd ~/OS
+ 2199  cd
+ 2200  cd ~/OS
+ 2201  history > ex2.txt
+ 2202  cd
+ 2203  sudo apt-get update
+ 2204  sudo apt-get upgrade
+ 2205  sudo apt-get update
+ 2206  sudo apt-get upgrade
+ 2207  sudo apt-get update
+ 2208  sudo apt-get upgrade
+ 2209  sudo apt-get update
+ 2210  sudo apt-get upgrade
+ 2211  sudo apt-get full-upgrade
+ 2212  cd ~/OS/week1
+ 2213  history > ex2.txt
+ 2214  cd
+ 2215  mkdir ~/OS/week1
+ 2216  touch OS
+ 2217  mkdir ~/OS/week1
+ 2218  cd ~/OS
+ 2219  mkdir ~/OS/week1
+ 2220  cd ~/OS/week1
+ 2221  cd /usr/bin
+ 2222  ls | grep "gcc" | sort -r > ~/OS/week1/ex1.txt
+ 2223  cd ~/OS/week1
+ 2224  history > ex2.txt
