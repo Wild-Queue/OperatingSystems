@@ -2,11 +2,11 @@
 #include <string.h>
 
 void BubbleSort(int *a, int Size){
-	for (int i = 0; i < Size; i++){
-		for (int j = i; j < Size; j++){
-			if (a[i] > a[j]){
-				int tmp = a[i];
-				a[i] = a[j];
+	for (int i = 1; i < Size; i++){
+		for (int j = 0; j < Size - i; j++){
+			if (a[j] > a[j+1]){
+				int tmp = a[j+1];
+				a[j+1] = a[j];
 				a[j] = tmp;
 			}
 		}
