@@ -1,18 +1,21 @@
 #!/bin/bash
 
-echo "Write 'stop' when you want to stop writing commands\n"
+echo "Write 'stop' when you want to stop writing commands"
+
+fork() {
+		bash -c "$inputline" $
+}
 
 while :
 do 
 	read -p "Command: " inputline
 	if [ $inputline = "stop" ]
 	then 
-		echo "Exit\n"
+		echo "Exit"
 		break
 	else
 		echo "Command executing"
-		execve
-		bash -c "$inputline"
-	fi
+		fork $
+fi
 	
 done
