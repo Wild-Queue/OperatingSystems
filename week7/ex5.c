@@ -1,6 +1,7 @@
 # include <stdio.h>
+#include <stdlib.h>
 int main () {
-	char **s;
+	char **s = malloc(20 * sizeof(char));
 	char foo [] = "Hello World";
 	*s = foo;
 	printf("s is %s\n", s);
