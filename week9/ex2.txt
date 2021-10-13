@@ -1,0 +1,3 @@
+To minimize the number of hits, you need to arrange the references in the sequence so that 2 identical references are at a distance greater than the number of pages.
+ And to maximize hits, on the contrary, you need to place the same references as close as possible. 
+ For miss, the opposite is true, since the number of hits and miss depends on each other (total = hits + miss)
