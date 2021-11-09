@@ -1,0 +1,29 @@
+0000-0cf7 : PCI Bus 0000:00
+  0000-001f : dma1
+  0020-0021 : pic1
+  0040-0043 : timer0
+  0050-0053 : timer1
+  0060-0060 : keyboard
+  0062-0062 : PNP0C09:00
+    0062-0062 : EC data
+  0064-0064 : keyboard
+  0066-0066 : PNP0C09:00
+    0066-0066 : EC cmd
+  0070-0077 : rtc0
+  0080-008f : dma page reg
+  00a0-00a1 : pic2
+  00c0-00df : dma2
+//////Some of the output lines have been removed for readability of the file
+
+
+dma1 is Data Memory Address Register 1 intended for transferring arrays of information over an 8-bit bus.
+
+pic1 is a microcircuit or embedded processor unit responsible for sequential processing of interrupt requests from different devices.
+
+The Timer1 module is a 16-bit timer/counter consisting of two 8-bit registers, which are readable and writable. 
+Timer1 can operate in one of three modes:
+• As a synchronous timer
+• As a synchronous counter
+• As an asynchronous counter
+
+
