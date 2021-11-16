@@ -1,0 +1,4 @@
+The preemption strategy is the best of the three, because of the following points:
+The preemption strategy involves creating checkpoints where the computer writes the state of a process to a file so that it can be restarted at a later time.
+The preemption strategy implies the ability to temporarily transfer a resource from one processor to another, which allows the most efficient use of all visible resources.
+To implement this strategy, you do not need to spend time calculating a safe path for the execution of processes, since resource transfer is possible
